@@ -1,0 +1,9 @@
+command
+sh clock
+who
+conf t
+exit
+conf t
+exit
+sh clock
+who
